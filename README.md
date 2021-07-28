@@ -1,10 +1,10 @@
 # joyceys_app
 
-A new Flutter project.
+This project will be used as practice for Flutter utilizing the BLoC design pattern.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starter shop application for a family-owned business.
 
 A few resources to get you started if this is your first Flutter project:
 
